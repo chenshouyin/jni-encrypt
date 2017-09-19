@@ -14,4 +14,10 @@
 #define LOGF(...) __android_log_print(ANDROID_LOG_FATAL,TAG ,__VA_ARGS__) // 定义LOGF类型
 void Des_edCryption(char input[8], char output[8], short mode);
 void make_SubKey(char key[8]);
+void arrayCryption(unsigned short * data64, short mode,char * out);
+void Bit64ToByte(unsigned short data64[64], unsigned char out[8]);
+void LoopF(unsigned short data64[64],short time,short flag);
+void leftMoveKey(unsigned short keyarray[56], int offset);
+void arrayCryption(unsigned short * data64, short mode,char * out);
+void Bit64ToByte(unsigned short data64[64], unsigned char out[8]);
 #endif

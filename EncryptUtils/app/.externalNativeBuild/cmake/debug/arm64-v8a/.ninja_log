@@ -1,0 +1,9 @@
+# ninja log v5
+10	177	0	CMakeFiles/encrypt.dir/des/des_util.c.o	20b90f8e58ec1524
+38	182	0	CMakeFiles/encrypt.dir/md5/md5.c.o	aafcb1a197f1f0eb
+21	217	0	CMakeFiles/encrypt.dir/aes/aes_util.c.o	b74aa3c49904951c
+2	228	0	CMakeFiles/encrypt.dir/des/des.c.o	918f77fdc4f05129
+29	274	0	CMakeFiles/encrypt.dir/aes/aes.c.o	f42c92fda1a0cfc8
+49	280	0	CMakeFiles/encrypt.dir/md5/md5_util.c.o	b1a76534a86f0358
+64	413	0	CMakeFiles/encrypt.dir/base64/base64.cpp.o	a3f052da60793929
+413	504	0	E:/csy/GitDev/jni/jni-encrypt/EncryptUtils/app/build/intermediates/cmake/debug/obj/arm64-v8a/libencrypt.so	5228d78252e08daf

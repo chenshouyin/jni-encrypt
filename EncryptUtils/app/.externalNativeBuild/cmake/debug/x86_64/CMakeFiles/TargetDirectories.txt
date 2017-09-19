@@ -1,0 +1,3 @@
+E:/csy/GitDev/jni/jni-encrypt/EncryptUtils/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/encrypt.dir
+E:/csy/GitDev/jni/jni-encrypt/EncryptUtils/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+E:/csy/GitDev/jni/jni-encrypt/EncryptUtils/app/.externalNativeBuild/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
